@@ -1,0 +1,8 @@
+.color{
+    color: rgb(48, 53, 53);
+}
+.line{
+    border-radius: 500px;
+    color: black;
+    height:30px
+}
